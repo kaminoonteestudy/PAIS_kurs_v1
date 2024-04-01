@@ -1,0 +1,17 @@
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\bin\Debug\PAIS_kurs_v1.exe.config
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\bin\Debug\PAIS_kurs_v1.exe
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\bin\Debug\PAIS_kurs_v1.pdb
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.Properties.Resources.resources
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.exe
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.pdb
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.MainForm.resources
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.AddUsers.resources
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.AdminMain.resources
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.AddDepartments.resources
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.VehiclesForm.resources
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.MainPage.resources
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.MaintenanceRecordsForm.resources
+C:\Users\Ivan\source\repos\PAIS_kurs_v1\obj\Debug\PAIS_kurs_v1.Login.resources

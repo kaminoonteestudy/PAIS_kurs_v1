@@ -1,0 +1,1 @@
+Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=kurstransport;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
